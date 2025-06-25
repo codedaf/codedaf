@@ -16,7 +16,12 @@ const code_daf = {
     }
 };
 
-
+<a href="https://instagram.com/code_daf" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Instagram-%40code_daf-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+       alt="Instagram profile of code_daf" 
+       height="40" 
+       width="200">
+</a>
 
 
 <!--
