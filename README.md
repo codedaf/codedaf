@@ -11,7 +11,7 @@ const code_daf = {
   },
   learning: ["SOC analysis", "SIEM tools", "Malware analysis"],
   contact: {
-    github: "github.com/code-daf",
+    github: "[github.com/code-daf]",
     instagram: "@code_daf"
     }
 };
